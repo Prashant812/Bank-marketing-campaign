@@ -30,7 +30,7 @@ we have built five models:
 * Gradient Boosting (GBC)
 * Deep Neural Network (DNN)
 
- ## The data sets that we have used are imbalanced, with 88% no and 12% yes. So, Balanced data set is created for training and comparing to the imbalanced data set.
+ #### The data sets that we have used are imbalanced, with 88% no and 12% yes. So, Balanced data set is created for training and comparing to the imbalanced data set.
  
 
 ### Comparison of models and Results:
