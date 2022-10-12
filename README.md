@@ -36,12 +36,12 @@ we have built five models:
 ### Comparison of Model's Performance:
 #### For unbalanced classes
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/93676625/195410489-e32fcb2a-db8b-4f85-9b43-f574b2c580ca.png" >
+  <img width="700" src="https://user-images.githubusercontent.com/93676625/195425645-0bb13976-6593-4bd1-956b-b9b8741042a1.png" >
 </p>
 
 #### For unbalanced classes
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/93676625/195410872-3378ac79-248e-4982-90dd-52bf27bd5072.png" >
+  <img width="700" src="https://user-images.githubusercontent.com/93676625/195425802-96ee7f09-bd6a-4645-a629-a379fce78fec.png" >
 </p>
 
 ## Conclusion:
