@@ -2,7 +2,7 @@
 
 In today's cutthroat marketing environment, banks provide a variety of packages to entice clients. It would be beneficial for the banks to create a package based on a certain demography, allowing them to target those consumer groups particularly or adjust their packages as necessary. This categorization model aims to forecast whether a consumer will purchase their term deposit or not. Whereas a term deposit is a type of deposit offered by a financial institution with a fixed rate of interest that is high and an established maturity date.
 
-### Input Data 
+### Data 
 Dataset is from the UCI Machine Learning Repository. Features of this dataset includes:
 * Age
 * Job type
@@ -33,13 +33,21 @@ we have built five models:
  #### The data sets that we have used are imbalanced, with 88% no and 12% yes. So, Balanced data set is created for training and comparing to the imbalanced data set.
  
 
-### Comparison of models and Results:
+### Comparison of Model's Performance:
+#### For unbalanced classes
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/93676625/195410489-e32fcb2a-db8b-4f85-9b43-f574b2c580ca.png" >
+</p>
 
+#### For unbalanced classes
+<p align="center">
+  <img width="700" src="https://user-images.githubusercontent.com/93676625/195410872-3378ac79-248e-4982-90dd-52bf27bd5072.png" >
+</p>
 
-### Conclusion:
-Deep Neural Network outperformed all other classifiers.
+## Conclusion:
+Deep Neural Network performed better than other ML models
 
-Balancing classes reduced accuracy but also reduced overfitting and increased recall.
+Balanced class increased Recall and decreased Overfitting
 
 
 
