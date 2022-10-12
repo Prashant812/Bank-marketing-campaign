@@ -39,7 +39,7 @@ we have built five models:
   <img width="700" src="https://user-images.githubusercontent.com/93676625/195425645-0bb13976-6593-4bd1-956b-b9b8741042a1.png" >
 </p>
 
-#### For unbalanced classes
+#### For balanced classes
 <p align="center">
   <img width="700" src="https://user-images.githubusercontent.com/93676625/195425802-96ee7f09-bd6a-4645-a629-a379fce78fec.png" >
 </p>
